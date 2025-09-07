@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "welcome": "Xush kelibsiz",
+    "about": "Biz haqimizda",
+    "help": "Yordam",
+    "contact": "Aloqa",
+    "newAccount": "Yangi hisob"
+  },
+  "home": {
+    "h1": "BlackHole Diary'ga xush kelibsiz!",
+    "h2": "Fikr va g'oyalarni qo'lga kiritish uchun shaxsiy joyingiz.",
+    "p": "BlackHole Diary sizga oddiy va xavfsiz tarzda shaxsiy qaydlaringizni yozish, aks ettirish va tartibga solishda yordam berish uchun yaratilgan.",
+    "created": "Yaratuvchi",
+    "fullName": "Abdullayev Muhammad",
+    "who": "Veb dasturchi",
+    "usage": "BlackHole Diary'ni ishlatish"
+  }
+}

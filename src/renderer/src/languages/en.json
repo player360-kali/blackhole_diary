@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "welcome": "Welcome",
+    "about": "About",
+    "help": "Help",
+    "contact": "Contact",
+    "newAccount": "New Account"
+  },
+  "home": {
+    "h1": "Welcome To BlackHole Diary!",
+    "h2": "Your personal space to capture thoughts and ideas.",
+    "p": "BlackHole Diary is designed to help you write, reflect, and organize your personal notes in a simple and secure way.",
+    "created": "Created by",
+    "fullName": "Abdullayev Muhammad",
+    "who": "Web developer",
+    "usage": "BlackHole Diary usage"
+  }
+}
